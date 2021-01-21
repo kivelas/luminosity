@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Luminosity</string>
+    <string name="description">emoji showing how luminous the surroundings are</string>
+    <string name="bright">Wow, that\'s bright!</string>
+    <string name="nice">This is nice luminosity.</string>
+    <string name="normal">Meh, no bright nor dark.</string>
+    <string name="shady">This is a bit too dark for me.</string>
+    <string name="dark">Help! This is way too dark and scary for me!</string>
+</resources>
