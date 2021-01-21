@@ -4,6 +4,7 @@ A small app for android that shows different images in different luminosity.
 The app takes a value from the light sensor and depending on its value the following images are shown on the screen:
 
 Value 0:
+![alt text](http://drive.google.com/file/d/13NkJY7t8Q0Ji9vQjvCXXVJD60mvRHus3/view?usp=sharing/to/img.png)
 ![alt text](https://drive.google.com/file/d/13NkJY7t8Q0Ji9vQjvCXXVJD60mvRHus3/view?usp=sharing)
 
 
